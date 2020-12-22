@@ -1,5 +1,4 @@
-# Mothers-Day
-Simple Landing Page Mother's Day 2020
+# Simple Landing Page Mother's Day
 
 Kali ini saya mencoba slicing design dengan tema Hari Ibu 
 <br>
